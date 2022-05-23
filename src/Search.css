@@ -1,0 +1,28 @@
+.container{
+    /* margin:10px; */
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: #d65470;
+    max-width: 80%;
+    word-wrap: break-word;
+    min-height: max-content;
+
+}
+.input__field{
+    width: 100%;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.main__container{
+    background-color: #e28193;
+    min-height: max-content;
+}
+
+.display{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
